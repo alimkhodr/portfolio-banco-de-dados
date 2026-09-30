@@ -1,19 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Portf%C3%B3lio%20API&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Trabalho%20de%20Gradua%C3%A7%C3%A3o%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20FATEC%20SJC&descAlignY=58&descSize=17&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Portf%C3%B3lio%20API&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Trabalho%20de%20Gradua%C3%A7%C3%A3o%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20FATEC%20SJC&descAlignY=58&descSize=17&section=header"/>
 
 <p align="center">
-  <img src="https://github.com/alimkhodr.png" alt="Foto de Ali Mohamed Khodr" width="180"/>
+  <img src="https://images.weserv.nl/?url=github.com/alimkhodr.png&mask=circle&w=360&h=360&fit=cover" alt="Foto de Ali Mohamed Khodr" width="180"/>
 </p>
 
 <h2 align="center">Ali Mohamed Khodr</h2>
 
 <p align="center">
-  <a href="https://github.com/alimkhodr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2C98F0&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Tecn%C3%B3logo+em+Banco+de+Dados+%E2%80%A2+FATEC+SJC;Vue.js+%E2%80%A2+Nuxt+%E2%80%A2+Go+%E2%80%A2+PostgreSQL" alt="Typing SVG"/></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alimohamedkhodr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ali.m.khodr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/alimkhodr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/alimohamedkhodr/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:ali.m.khodr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+  <a href="https://github.com/alimkhodr"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 
 <div align="center">
@@ -43,7 +39,7 @@ Profissionalmente, atuo como desenvolvedor full stack no Qeevo Group (Quero Educ
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,react,nextjs,tailwind,html,css&perline=9" alt="Frontend"/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,ruby,elixir,go,java,spring,cs,dotnet,python&perline=9" alt="Backend"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,elasticsearch,docker,aws,git,github,githubactions&perline=9" alt="Dados e DevOps"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,elasticsearch,docker,aws,git,github,githubactions&perline=9" alt="Dados e DevOps"/> <img src="assets/icons/oracle.svg" width="48" alt="Oracle"/>
 </p>
 
 ---
@@ -81,10 +77,7 @@ Profissionalmente, atuo como desenvolvedor full stack no Qeevo Group (Quero Educ
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,git,github" alt="Tecnologias"/>
 </p>
 
 <details>
@@ -174,10 +167,7 @@ Exercitei algumas hard skills durante esse projeto:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" alt="Tecnologias"/>
 </p>
 
 <details>
@@ -289,13 +279,7 @@ Exercitei algumas hard skills durante esse projeto:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,spring,mysql,figma" alt="Tecnologias"/>
 </p>
 
 <details>
@@ -415,13 +399,7 @@ Exercitei algumas hard skills durante esse projeto:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"/>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vue,vuetify,vite,java,spring,docker" alt="Tecnologias"/> <img src="assets/icons/oracle.svg" width="48" alt="Oracle"/>
 </p>
 
 <details>
@@ -566,16 +544,7 @@ Exercitei algumas hard skills durante esse projeto:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,ts,tailwind,pinia,vitest,go,postgres,sqlite,python,githubactions" alt="Tecnologias"/>
 </p>
 
 <details>
@@ -720,14 +689,7 @@ Exercitei algumas hard skills durante esse projeto:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,ts,go,elasticsearch,python" alt="Tecnologias"/> <img src="assets/icons/oracle.svg" width="48" alt="Oracle"/>
 </p>
 
 <details>
@@ -856,4 +818,4 @@ Exercitei algumas hard skills durante esse projeto:
 Os seis Projetos Integradores mostram uma evolução clara. Comecei construindo páginas estáticas e telas desktop, passei pela modelagem relacional com MySQL e cheguei a aplicações completas, com frontend em Nuxt, backends em Java e Go, bancos Oracle e PostgreSQL, Data Warehouses, pipelines de ETL, testes automatizados, CI e requisitos de segurança e LGPD. Ao longo desse caminho, também deixei de ser quem está aprendendo a stack para ser quem define a estrutura do frontend e os padrões seguidos pela equipe.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
