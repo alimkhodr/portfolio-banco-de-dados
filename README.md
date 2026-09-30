@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:ee0979,100:ff6a00&text=Portf%C3%B3lio%20API&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Trabalho%20de%20Gradua%C3%A7%C3%A3o%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20FATEC%20SJC&descAlignY=66&descSize=17&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:5b21b6,100:a855f7&text=Portf%C3%B3lio%20API&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Trabalho%20de%20Gradua%C3%A7%C3%A3o%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20FATEC%20SJC&descAlignY=66&descSize=17&section=header"/>
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=github.com/alimkhodr.png&mask=circle&w=360&h=360&fit=cover" alt="Foto de Ali Mohamed Khodr" width="180"/>
@@ -818,4 +818,4 @@ Exercitei algumas hard skills durante esse projeto:
 Os seis Projetos Integradores mostram uma evolução clara. Comecei construindo páginas estáticas e telas desktop, passei pela modelagem relacional com MySQL e cheguei a aplicações completas, com frontend em Nuxt, backends em Java e Go, bancos Oracle e PostgreSQL, Data Warehouses, pipelines de ETL, testes automatizados, CI e requisitos de segurança e LGPD. Ao longo desse caminho, também deixei de ser quem está aprendendo a stack para ser quem define a estrutura do frontend e os padrões seguidos pela equipe.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:ff6a00,100:ee0979&text=Obrigado%20pela%20visita!&fontColor=ffffff&fontSize=22&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:a855f7,100:5b21b6&text=Obrigado%20pela%20visita!&fontColor=ffffff&fontSize=22&section=footer"/>
