@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:1e3a8a,100:3b82f6&text=Portf%C3%B3lio%20API&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Trabalho%20de%20Gradua%C3%A7%C3%A3o%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20FATEC%20SJC&descAlignY=66&descSize=17&section=header"/>
+<img width="100%" src="assets/brand/header.png" alt="Portfólio de Projetos Integradores, Trabalho de Graduação em Banco de Dados na Fatec SJC, por Ali Mohamed Khodr"/>
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=github.com/alimkhodr.png&mask=circle&w=360&h=360&fit=cover" alt="Foto de Ali Mohamed Khodr" width="180"/>
@@ -7,14 +7,15 @@
 <h2 align="center">Ali Mohamed Khodr</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alimohamedkhodr/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:ali.m.khodr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-  <a href="https://github.com/alimkhodr"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://alikhodr.dev"><img src="https://img.shields.io/badge/alikhodr.dev-2B52F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio: alikhodr.dev"/></a>
+  <a href="https://www.linkedin.com/in/alimohamedkhodr/"><img src="https://img.shields.io/badge/LinkedIn-14161A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzdjLTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODVjMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2IDIuMDYgMCAwIDEtMi4wNjMtMi4wNjVhMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjVtMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+  <a href="mailto:ali.m.khodr@gmail.com"><img src="https://img.shields.io/badge/E--mail-14161A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://github.com/alimkhodr"><img src="https://img.shields.io/badge/GitHub-14161A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <div align="center">
 
-| 🎓 Curso | 📚 Modalidade | 👨‍🏫 Orientador |
+| Curso | Modalidade | Orientador |
 | :---: | :---: | :---: |
 | Tecnólogo em Banco de Dados | Portfólio de Aprendizagem de Projetos Integradores (API) | Prof. Giuliano Bertoti |
 
@@ -22,7 +23,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 <p align="justify">
 Meu nome é Ali Mohamed Khodr, sou desenvolvedor full stack e estudante do 6º semestre de <b>Banco de Dados</b> na FATEC de São José dos Campos – Prof. Jessen Vidal. Antes da faculdade, me formei como Técnico em Desenvolvimento de Sistemas pela ETEC de São José dos Campos, onde tive meu primeiro contato com programação e com banco de dados.
@@ -31,10 +32,13 @@ Meu nome é Ali Mohamed Khodr, sou desenvolvedor full stack e estudante do 6º s
 Comecei a FATEC no curso de Análise e Desenvolvimento de Sistemas (ADS), onde participei dos dois primeiros Projetos Integradores, e depois segui para Banco de Dados, onde realizei os demais. Cada semestre trouxe uma empresa parceira, um problema real e uma stack diferente. Foi nesses projetos que passei de páginas estáticas em HTML para aplicações com frontend, backend, ETL, testes automatizados e integração contínua.
 </p>
 <p align="justify">
-Profissionalmente, atuo como desenvolvedor full stack no Qeevo Group (Quero Educação), trabalhando com Vue.js e Nuxt no frontend, Ruby, Elixir e Node.js no backend e PostgreSQL como banco de dados principal, além de serviços da AWS. Antes disso, estagiei na APTIV (unidade de Jambeiro), multinacional do setor automotivo, desenvolvendo aplicações em ASP.NET Web Forms (VB.NET e C#), sistemas desktop em Windows Forms e rotinas em SQL Server.
+Profissionalmente, atuo como Software Engineer no Qeevo Group (ex-Quero Educação), trabalhando com Vue.js e Nuxt no frontend, Ruby, Elixir e Node.js no backend e PostgreSQL como banco de dados principal, além de serviços da AWS. Antes disso, estagiei na APTIV (unidade de Jambeiro), multinacional do setor automotivo, desenvolvendo aplicações em ASP.NET Web Forms (VB.NET e C#), sistemas desktop em Windows Forms e rotinas em SQL Server.
+</p>
+<p align="justify">
+Portfólio completo, projetos profissionais e CV em português, inglês e espanhol: <a href="https://alikhodr.dev"><b>alikhodr.dev</b></a>.
 </p>
 
-## 🧠 Meus principais conhecimentos
+## Meus principais conhecimentos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,react,nextjs,tailwind,html,css&perline=9" alt="Frontend"/><br/>
@@ -44,7 +48,7 @@ Profissionalmente, atuo como desenvolvedor full stack no Qeevo Group (Quero Educ
 
 ---
 
-## 🗂️ Projetos
+## Projetos
 
 <table align="center">
   <tr>
@@ -65,7 +69,11 @@ Profissionalmente, atuo como desenvolvedor full stack no Qeevo Group (Quero Educ
 
 <!-- ============================== API 1 ============================== -->
 <a id="api-1"></a>
-<h1 align="center">DispVag · 1º Semestre 2022/1</h1>
+<h1 align="center">DispVag</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1%C2%BA%20semestre-2022%2F1-2B52F0?style=flat-square&labelColor=14161A" alt="1º semestre, 2022/1"/>
+</p>
 
 <p align="center">
   Empresa Parceira · <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos (interno)</a><br/>
@@ -96,7 +104,7 @@ Profissionalmente, atuo como desenvolvedor full stack no Qeevo Group (Quero Educ
 <p align="justify">O DispVag é um sistema web que cataloga vagas de emprego com ênfase em TI, separando-as por área (Front-end, Back-end e Outros) e apresentando para cada vaga os requisitos, a área profissional, os benefícios e as informações da empresa contratante. O site foi estruturado nas cinco páginas exigidas pela FATEC: página principal, vagas de emprego, cursos e certificações, métricas e localização.</p>
 
 <details>
-<summary><b>🖥️ Telas do sistema</b></summary>
+<summary><b>Telas do sistema</b></summary>
 <br/>
 
 <b>Busca de vagas por área</b>
@@ -155,7 +163,11 @@ Exercitei algumas hard skills durante esse projeto:
 
 <!-- ============================== API 2 ============================== -->
 <a id="api-2"></a>
-<h1 align="center">TrackCash · 2º Semestre 2022/2</h1>
+<h1 align="center">TrackCash</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2%C2%BA%20semestre-2022%2F2-2B52F0?style=flat-square&labelColor=14161A" alt="2º semestre, 2022/2"/>
+</p>
 
 <p align="center">
   Empresa Parceira · <a href="https://www.trackcash.com.br/">TrackCash</a><br/>
@@ -198,7 +210,7 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify">Fiquei responsável pela prototipação e construção das telas da aplicação, o que me fez avançar bastante em UX/UI. Também elaborei o modelo de dados e criei o banco MySQL, meu primeiro contato com modelagem relacional em um projeto real.</p>
 
 <details>
-<summary><b>🖥️ Interface gráfica da aplicação</b></summary>
+<summary><b>Interface gráfica da aplicação</b></summary>
 <br/>
 
 <p align="justify">Toda a interface foi construída com o GUI Builder do NetBeans. Criei e alinhei campos de texto, combos, botões, painéis e logos, padronizando as cores e mantendo a coerência visual entre as telas.</p>
@@ -208,7 +220,7 @@ Exercitei algumas hard skills durante esse projeto:
 </details>
 
 <details>
-<summary><b>👁️ Exibir e ocultar senha</b></summary>
+<summary><b>Exibir e ocultar senha</b></summary>
 <br/>
 
 <p align="justify">Funcionalidade que alterna a visibilidade da senha para o usuário conferir o que está digitando.</p>
@@ -219,7 +231,7 @@ Exercitei algumas hard skills durante esse projeto:
 </details>
 
 <details>
-<summary><b>🗂️ Modelo de dados</b></summary>
+<summary><b>Modelo de dados</b></summary>
 <br/>
 
 <p align="justify">Modelo criado antes do banco, definindo as entidades de administrador, usuário e canais e os relacionamentos entre elas.</p>
@@ -229,7 +241,7 @@ Exercitei algumas hard skills durante esse projeto:
 </details>
 
 <details>
-<summary><b>🐬 Banco de dados MySQL</b></summary>
+<summary><b>Banco de dados MySQL</b></summary>
 <br/>
 
 <p align="justify">Script de criação das tabelas de administrador, canais, canais do administrador e usuários, com as chaves primárias e estrangeiras.</p>
@@ -267,7 +279,11 @@ Exercitei algumas hard skills durante esse projeto:
 
 <!-- ============================== API 3 ============================== -->
 <a id="api-3"></a>
-<h1 align="center">DrConvert · 3º Semestre 2024/1</h1>
+<h1 align="center">DrConvert</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3%C2%BA%20semestre-2024%2F1-2B52F0?style=flat-square&labelColor=14161A" alt="3º semestre, 2024/1"/>
+</p>
 
 <p align="center">
   Empresa Parceira · <a href="https://www.domrock.net/">Dom Rock</a><br/>
@@ -298,7 +314,7 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify">O DrConvert é uma plataforma web de mapeamento e conversão de dados em que o próprio usuário configura cada estágio: faz o upload do arquivo <code>.csv</code>, visualiza e ajusta os campos e tipos detectados, define o campo identificador, classifica os campos e cria regras de conversão "de → para". A plataforma também tem um dashboard administrativo e gera um arquivo <code>.yaml</code> com o esquema dos dados.</p>
 
 <details>
-<summary><b>🎨 Protótipos das telas (Figma)</b></summary>
+<summary><b>Protótipos das telas (Figma)</b></summary>
 <br/>
 
 <b>Login</b>
@@ -316,7 +332,7 @@ Exercitei algumas hard skills durante esse projeto:
 </details>
 
 <details>
-<summary><b>🗃️ Modelagem do banco de dados</b></summary>
+<summary><b>Modelagem do banco de dados</b></summary>
 <br/>
 
 <b>Modelo entidade-relacionamento</b>
@@ -341,7 +357,7 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify">Atuei no frontend em Next.js, principalmente na página do projeto, onde o usuário acompanha e configura os estágios do mapeamento. Foi meu primeiro contato com React e com os conceitos de pipeline de dados.</p>
 
 <details>
-<summary><b>📄 Página do projeto e navegação entre estágios</b></summary>
+<summary><b>Página do projeto e navegação entre estágios</b></summary>
 <br/>
 
 <p align="justify">Criei a página do projeto (<code>project/page.tsx</code>) com o controle de navegação entre os estágios Landing Zone, Bronze e Silver (<code>page-control.tsx</code>) e os cards dos campos mapeados (<code>field-card.tsx</code>). Depois refatorei essa página para acompanhar as novas rotas e componentes da aplicação.</p>
@@ -351,7 +367,7 @@ Exercitei algumas hard skills durante esse projeto:
 </details>
 
 <details>
-<summary><b>📤 Opção "arquivo possui cabeçalho" no upload</b></summary>
+<summary><b>Opção "arquivo possui cabeçalho" no upload</b></summary>
 <br/>
 
 <p align="justify">No formulário de upload (<code>upload-form.tsx</code>), adicionei a opção de informar se o CSV tem linha de cabeçalho e passei a enviar essa informação ao serviço de upload, para que o backend identifique corretamente os nomes dos campos.</p>
@@ -387,7 +403,11 @@ Exercitei algumas hard skills durante esse projeto:
 
 <!-- ============================== API 4 ============================== -->
 <a id="api-4"></a>
-<h1 align="center">GeoTrack · 4º Semestre 2024/2</h1>
+<h1 align="center">GeoTrack</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/4%C2%BA%20semestre-2024%2F2-2B52F0?style=flat-square&labelColor=14161A" alt="4º semestre, 2024/2"/>
+</p>
 
 <p align="center">
   Empresa Parceira · <a href="https://www.linkedin.com/company/ito1/">ITO1</a><br/>
@@ -418,7 +438,7 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify">O GeoTrack é um sistema web de rastreamento em mapa. Ele mostra os pontos de parada de cada dispositivo, filtra por pessoa, dispositivo e período (com atalhos como "Hoje" e "Últimos 3 dias"), permite criar áreas geográficas para descobrir quem passou por elas, traça as rotas percorridas e gera relatórios, tudo com login e modo escuro.</p>
 
 <details>
-<summary><b>🎬 Demonstrações do sistema</b></summary>
+<summary><b>Demonstrações do sistema</b></summary>
 <br/>
 
 <b>Pontos de parada</b>
@@ -444,7 +464,7 @@ https://github.com/user-attachments/assets/5b43a7f7-bac8-477c-847d-13c51ed2d0e1
 </details>
 
 <details>
-<summary><b>🗃️ Modelagem do banco de dados</b></summary>
+<summary><b>Modelagem do banco de dados</b></summary>
 <br/>
 
 <img src="https://github.com/user-attachments/assets/d25bdfc3-4998-452d-bd21-4875903a7630" width="100%"/>
@@ -465,7 +485,7 @@ https://github.com/user-attachments/assets/5b43a7f7-bac8-477c-847d-13c51ed2d0e1
 <p align="justify">Entrei na equipe iNineBD neste semestre e fui um dos principais desenvolvedores do frontend, da estrutura inicial do projeto até as funcionalidades do mapa. Foram 26 commits no repositório do frontend.</p>
 
 <details>
-<summary><b>🏗️ Estrutura do projeto e configuração do mapa</b></summary>
+<summary><b>Estrutura do projeto e configuração do mapa</b></summary>
 <br/>
 
 <p align="justify">Montei a estrutura do frontend com Vue 3, Vite e Vuetify, configurei o Google Maps (incluindo as tipagens <code>google.maps.d.ts</code>) e criei o layout com menu lateral (<code>Sidebar.vue</code>), adaptado para telas menores.</p>
@@ -475,7 +495,7 @@ https://github.com/user-attachments/assets/5b43a7f7-bac8-477c-847d-13c51ed2d0e1
 </details>
 
 <details>
-<summary><b>📍 Marcadores de usuários e filtros de busca</b></summary>
+<summary><b>Marcadores de usuários e filtros de busca</b></summary>
 <br/>
 
 <p align="justify">Criei o componente de marcadores com avatar, que plota no mapa os dados vindos do banco. Implementei os filtros por usuário, dispositivo e período: o botão de consulta só é habilitado com todos os campos preenchidos, e o botão "Limpar" permite trocar de usuário. Também participei dos filtros rápidos e da seleção de múltiplos usuários, e corrigi a inicialização do mapa e os pontos de parada.</p>
@@ -486,7 +506,7 @@ https://github.com/user-attachments/assets/5b43a7f7-bac8-477c-847d-13c51ed2d0e1
 </details>
 
 <details>
-<summary><b>🗺️ Áreas geográficas</b></summary>
+<summary><b>Áreas geográficas</b></summary>
 <br/>
 
 <p align="justify">Trabalhei no filtro de áreas geográficas, atualizando a listagem após salvar ou excluir uma área e sincronizando o modal quando o usuário troca de área. Adicionei <i>loading</i> nos botões, <i>snackbar</i> de erro e a limpeza dos marcadores.</p>
@@ -496,7 +516,7 @@ https://github.com/user-attachments/assets/5b43a7f7-bac8-477c-847d-13c51ed2d0e1
 </details>
 
 <details>
-<summary><b>🛣️ Rotas e Street View</b></summary>
+<summary><b>Rotas e Street View</b></summary>
 <br/>
 
 <p align="justify">Criei o componente <code>GeoRoutesFilter</code>, que busca e traça no mapa as rotas percorridas por um usuário, e ajustei o posicionamento da localização no Street View.</p>
@@ -532,7 +552,11 @@ Exercitei algumas hard skills durante esse projeto:
 
 <!-- ============================== API 5 ============================== -->
 <a id="api-5"></a>
-<h1 align="center">Track · 5º Semestre 2025/1</h1>
+<h1 align="center">Track</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/5%C2%BA%20semestre-2025%2F1-2B52F0?style=flat-square&labelColor=14161A" alt="5º semestre, 2025/1"/>
+</p>
 
 <p align="center">
   Empresa Parceira · <a href="https://youtan.com.br/">Youtan</a><br/>
@@ -563,7 +587,7 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify">O Track é uma plataforma integrada às bases do Taiga e do Jira. Um ETL em Python alimenta um Data Warehouse em PostgreSQL, uma API em Go expõe os indicadores e um frontend em Nuxt os apresenta em dashboards interativos: cards criados, iniciados e concluídos, tempo médio de execução e retrabalho, com visualização por tag, colaborador e status. Cada perfil (Operador, Gerente e Administrador) vê apenas as informações do seu escopo.</p>
 
 <details>
-<summary><b>🎬 Evolução dos dashboards por sprint</b></summary>
+<summary><b>Evolução dos dashboards por sprint</b></summary>
 <br/>
 
 <b>Sprint 1 · Painéis iniciais com métricas por tag, colaborador e status</b>
@@ -581,7 +605,7 @@ https://github.com/user-attachments/assets/4079aa37-ad77-4b16-9e65-9312248a8ba6
 </details>
 
 <details>
-<summary><b>🗃️ Modelagem do Data Warehouse</b></summary>
+<summary><b>Modelagem do Data Warehouse</b></summary>
 <br/>
 
 <img src="https://github.com/user-attachments/assets/ed33b79d-6648-41be-a0d7-7a6e745846a6" width="100%"/>
@@ -606,7 +630,7 @@ https://github.com/user-attachments/assets/4079aa37-ad77-4b16-9e65-9312248a8ba6
 <p align="justify">Fui o principal responsável pelo frontend, com 81 commits no repositório: criei o projeto, defini a estrutura e os padrões seguidos pela equipe e desenvolvi os dashboards, a autenticação e a gestão de usuários. No backend, escrevi os testes de integração do login.</p>
 
 <details>
-<summary><b>🏗️ Setup inicial, qualidade e CI</b></summary>
+<summary><b>Setup inicial, qualidade e CI</b></summary>
 <br/>
 
 <p align="justify">Criei o projeto em Nuxt 3 com Nuxt UI, o header e o footer com alternância de tema e os componentes base. Configurei o ESLint e o workflow de CI para rodar lint e testes antes do build, e escrevi testes unitários com Vitest para os componentes de gráficos.</p>
@@ -614,7 +638,7 @@ https://github.com/user-attachments/assets/4079aa37-ad77-4b16-9e65-9312248a8ba6
 </details>
 
 <details>
-<summary><b>📊 Dashboards e métricas</b></summary>
+<summary><b>Dashboards e métricas</b></summary>
 <br/>
 
 <p align="justify">Desenvolvi os componentes de gráficos com Chart.js (rosca, barras verticais e horizontais) e os cards de estatística. Criei os filtros de projeto, de plataforma (Taiga ou Jira) e de período (<code>v-calendar</code> + <code>date-fns</code>), consumindo as estatísticas do backend com <i>skeleton loading</i> e tratamento de erro. O dashboard evoluiu de uma tela de listagem de projetos para um painel único com filtros.</p>
@@ -624,7 +648,7 @@ https://github.com/user-attachments/assets/ff5541c3-491b-4837-ae91-4bc8169d5d21
 </details>
 
 <details>
-<summary><b>🔐 Primeiro acesso, definir senha e login</b></summary>
+<summary><b>Primeiro acesso, definir senha e login</b></summary>
 <br/>
 
 <p align="justify">Implementei o fluxo de primeiro acesso, com validação do e-mail e envio de token, a tela de definir senha e o login. A sessão é controlada por middleware de autenticação, por uma store do usuário em Pinia com estado persistido e por um interceptor do Axios que trata respostas <code>401</code>.</p>
@@ -632,7 +656,7 @@ https://github.com/user-attachments/assets/ff5541c3-491b-4837-ae91-4bc8169d5d21
 </details>
 
 <details>
-<summary><b>👥 Gestão de usuários e perfis</b></summary>
+<summary><b>Gestão de usuários e perfis</b></summary>
 <br/>
 
 <p align="justify">Criei a página de usuários, acessível apenas a administradores (middleware <code>admin</code>), com listagem paginada e alteração de perfil por meio dos composables <code>useUsers</code>, <code>useRoles</code> e <code>useUpdateRole</code>.</p>
@@ -640,7 +664,7 @@ https://github.com/user-attachments/assets/ff5541c3-491b-4837-ae91-4bc8169d5d21
 </details>
 
 <details>
-<summary><b>🧪 Testes de integração no backend (Go)</b></summary>
+<summary><b>Testes de integração no backend (Go)</b></summary>
 <br/>
 
 <p align="justify">Escrevi os testes de integração do controller de login em Go, usando SQLite em memória para validar a integração entre a API e o banco sem depender do PostgreSQL.</p>
@@ -677,7 +701,11 @@ Exercitei algumas hard skills durante esse projeto:
 
 <!-- ============================== API 6 ============================== -->
 <a id="api-6"></a>
-<h1 align="center">VisionData · 6º Semestre 2025/2</h1>
+<h1 align="center">VisionData</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/6%C2%BA%20semestre-2025%2F2-2B52F0?style=flat-square&labelColor=14161A" alt="6º semestre, 2025/2"/>
+</p>
 
 <p align="center">
   Empresa Parceira · <a href="https://www.pro4tech.com.br/">Pro4tech</a><br/>
@@ -708,7 +736,7 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify">O VisionData transforma os chamados em uma base de conhecimento pesquisável. O sistema oferece busca vetorizada de chamados semelhantes, dashboards de métricas quantitativas e qualitativas, previsões por produto ou cliente com modelos de Machine Learning e exportação de insights gerados por IA. Tudo foi construído seguindo a LGPD, com anonimização, logs de auditoria, backups, controle de consentimento e perfis de acesso.</p>
 
 <details>
-<summary><b>🎬 Demonstrações do sistema</b></summary>
+<summary><b>Demonstrações do sistema</b></summary>
 <br/>
 
 <b>Busca vetorizada de chamados</b>
@@ -730,7 +758,7 @@ https://github.com/user-attachments/assets/4eb3a23a-2c3c-439c-98e6-10afd77fc0e6
 </details>
 
 <details>
-<summary><b>🗃️ Modelagem do Data Warehouse</b></summary>
+<summary><b>Modelagem do Data Warehouse</b></summary>
 <br/>
 
 <img src="https://github.com/user-attachments/assets/9f5f59c6-63c1-4ccd-872f-43c4a9aed37f" width="100%"/>
@@ -753,7 +781,7 @@ https://github.com/user-attachments/assets/4eb3a23a-2c3c-439c-98e6-10afd77fc0e6
 <p align="justify">Fiquei responsável pela autenticação e pela gestão de usuários no frontend, que sustentam os requisitos de segurança e de LGPD do projeto.</p>
 
 <details>
-<summary><b>🔐 Fluxo de autenticação</b></summary>
+<summary><b>Fluxo de autenticação</b></summary>
 <br/>
 
 <p align="justify">Configurei o módulo <code>nuxt-auth-utils</code> e implementei login, logout e sessão do usuário, incluindo as rotas de servidor do Nuxt (<code>login</code>, <code>logout</code> e <code>user</code>), o composable <code>useAuth</code> e os middlewares <code>authenticated</code> e <code>admin</code>.</p>
@@ -764,7 +792,7 @@ https://github.com/user-attachments/assets/4eb3a23a-2c3c-439c-98e6-10afd77fc0e6
 </details>
 
 <details>
-<summary><b>🪟 Login com conta Microsoft</b></summary>
+<summary><b>Login com conta Microsoft</b></summary>
 <br/>
 
 <p align="justify">Implementei o login com conta Microsoft: a rota de servidor <code>login/microsoft</code>, o botão na tela de login e uma página de retorno que dá feedback ao usuário depois da autenticação.</p>
@@ -774,7 +802,7 @@ https://github.com/user-attachments/assets/e2f8fa48-4e8c-4522-89bc-fc8b09cc7e53
 </details>
 
 <details>
-<summary><b>👥 Gestão de usuários e perfil</b></summary>
+<summary><b>Gestão de usuários e perfil</b></summary>
 <br/>
 
 <p align="justify">Criei a página de gestão de usuários (listagem, edição e exclusão, com modais de criação e exclusão) e a página de perfil, onde o usuário altera a senha ou exclui a própria conta, atendendo ao direito de eliminação de dados previsto na LGPD.</p>
@@ -812,10 +840,10 @@ Exercitei algumas hard skills durante esse projeto:
 
 ---
 
-## 🎯 Considerações finais
+## Considerações finais
 
 <p align="justify">
 Os seis Projetos Integradores mostram uma evolução clara. Comecei construindo páginas estáticas e telas desktop, passei pela modelagem relacional com MySQL e cheguei a aplicações completas, com frontend em Nuxt, backends em Java e Go, bancos Oracle e PostgreSQL, Data Warehouses, pipelines de ETL, testes automatizados, CI e requisitos de segurança e LGPD. Ao longo desse caminho, também deixei de ser quem está aprendendo a stack para ser quem define a estrutura do frontend e os padrões seguidos pela equipe.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:3b82f6,100:1e3a8a&text=Obrigado%20pela%20visita!&fontColor=ffffff&fontSize=22&section=footer"/>
+<a href="https://alikhodr.dev"><img width="100%" src="assets/brand/footer.png" alt="Obrigado pela visita. alikhodr.dev"/></a>
