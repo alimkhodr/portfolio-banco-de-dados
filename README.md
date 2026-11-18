@@ -244,7 +244,7 @@ Exercitei algumas hard skills durante esse projeto:
 <summary><b>Banco de dados MySQL</b></summary>
 <br/>
 
-<p align="justify">Script de criação das tabelas de administrador, canais, canais do administrador e usuários, com as chaves primárias e estrangeiras.</p>
+<p align="justify">Script de criação das tabelas de administrador, canais, canais do administrador e usuários, com as chaves primárias de cada tabela.</p>
 
 <img src="assets/api-2-trackcash/bd.png" width="100%"/>
 
@@ -311,7 +311,7 @@ Exercitei algumas hard skills durante esse projeto:
 
 <h2>Solução</h2>
 
-<p align="justify">O DrConvert é uma plataforma web de mapeamento e conversão de dados em que o próprio usuário configura cada estágio: faz o upload do arquivo <code>.csv</code>, visualiza e ajusta os campos e tipos detectados, define o campo identificador, classifica os campos e cria regras de conversão "de → para". A plataforma também tem um dashboard administrativo e gera um arquivo <code>.yaml</code> com o esquema dos dados.</p>
+<p align="justify">O DrConvert é uma plataforma web de mapeamento e conversão de dados em que o próprio usuário configura cada estágio: faz o upload do arquivo <code>.csv</code>, visualiza e ajusta os campos e tipos detectados, define o campo identificador, classifica os campos e cria regras de conversão "de → para". A plataforma também tem um dashboard administrativo de usuários e arquivos.</p>
 
 <details>
 <summary><b>Protótipos das telas (Figma)</b></summary>
@@ -717,7 +717,7 @@ Exercitei algumas hard skills durante esse projeto:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,ts,go,elasticsearch,python" alt="Tecnologias"/> <img src="assets/icons/oracle.svg" width="48" alt="Oracle"/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,ts,go,elasticsearch,python" alt="Tecnologias"/>
 </p>
 
 <details>
@@ -733,13 +733,13 @@ Exercitei algumas hard skills durante esse projeto:
 
 <h2>Solução</h2>
 
-<p align="justify">O VisionData transforma os chamados em uma base de conhecimento pesquisável. O sistema oferece busca vetorizada de chamados semelhantes, dashboards de métricas quantitativas e qualitativas, previsões por produto ou cliente com modelos de Machine Learning e exportação de insights gerados por IA. Tudo foi construído seguindo a LGPD, com anonimização, logs de auditoria, backups, controle de consentimento e perfis de acesso.</p>
+<p align="justify">O VisionData transforma os chamados em uma base de conhecimento pesquisável. O sistema oferece busca textual de chamados semelhantes no Elasticsearch (com tolerância a erros de digitação e peso maior para o título), dashboards de métricas quantitativas e qualitativas, previsões por produto ou cliente com modelos de Machine Learning e exportação de insights gerados por IA. Tudo foi construído seguindo a LGPD, com anonimização, logs de auditoria, backups, controle de consentimento e perfis de acesso.</p>
 
 <details>
 <summary><b>Demonstrações do sistema</b></summary>
 <br/>
 
-<b>Busca vetorizada de chamados</b>
+<b>Busca de chamados</b>
 
 https://github.com/user-attachments/assets/30d9abb9-9cf5-449f-801c-5940ac5bfc88
 
@@ -771,8 +771,8 @@ https://github.com/user-attachments/assets/4eb3a23a-2c3c-439c-98e6-10afd77fc0e6
 <p align="justify"><strong>nuxt-auth-utils:</strong> gerenciamento de sessão e autenticação, incluindo o login com conta Microsoft.</p>
 <p align="justify"><strong>Chart.js:</strong> gráficos dos dashboards.</p>
 <p align="justify"><strong>Go:</strong> desenvolvimento da API REST no backend.</p>
-<p align="justify"><strong>Elasticsearch:</strong> indexação e busca vetorizada dos chamados.</p>
-<p align="justify"><strong>Oracle:</strong> banco relacional e Data Warehouse do projeto.</p>
+<p align="justify"><strong>Elasticsearch:</strong> indexação e busca textual dos chamados, com analisador em português.</p>
+<p align="justify"><strong>SQL Server:</strong> banco relacional e Data Warehouse do projeto.</p>
 <p align="justify"><strong>Python:</strong> ETL e modelos de Machine Learning para as previsões.</p>
 <p align="justify"><strong>Jira:</strong> gestão das sprints e das tarefas da equipe.</p>
 
@@ -843,7 +843,7 @@ Exercitei algumas hard skills durante esse projeto:
 ## Considerações finais
 
 <p align="justify">
-Os seis Projetos Integradores mostram uma evolução clara. Comecei construindo páginas estáticas e telas desktop, passei pela modelagem relacional com MySQL e cheguei a aplicações completas, com frontend em Nuxt, backends em Java e Go, bancos Oracle e PostgreSQL, Data Warehouses, pipelines de ETL, testes automatizados, CI e requisitos de segurança e LGPD. Ao longo desse caminho, também deixei de ser quem está aprendendo a stack para ser quem define a estrutura do frontend e os padrões seguidos pela equipe.
+Os seis Projetos Integradores mostram uma evolução clara. Comecei construindo páginas estáticas e telas desktop, passei pela modelagem relacional com MySQL e cheguei a aplicações completas, com frontend em Nuxt, backends em Java e Go, bancos Oracle, SQL Server e PostgreSQL, Data Warehouses, pipelines de ETL, testes automatizados, CI e requisitos de segurança e LGPD. Ao longo desse caminho, também deixei de ser quem está aprendendo a stack para ser quem define a estrutura do frontend e os padrões seguidos pela equipe.
 </p>
 
 <a href="https://alikhodr.dev"><img width="100%" src="assets/brand/footer.png" alt="Obrigado pela visita. alikhodr.dev"/></a>
