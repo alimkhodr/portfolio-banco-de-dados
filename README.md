@@ -26,7 +26,7 @@
 ## Sobre mim
 
 <p align="justify">
-Meu nome é Ali Mohamed Khodr, sou desenvolvedor full stack e estudante do 6º semestre de <b>Banco de Dados</b> na FATEC de São José dos Campos – Prof. Jessen Vidal. Antes da faculdade, me formei como Técnico em Desenvolvimento de Sistemas pela ETEC de São José dos Campos, onde tive meu primeiro contato com programação e com banco de dados.
+Meu nome é Ali Mohamed Khodr, sou engenheiro de software e estudante do 6º semestre de <b>Banco de Dados</b> na FATEC de São José dos Campos – Prof. Jessen Vidal. Antes da faculdade, me formei como Técnico em Desenvolvimento de Sistemas pela Etec Profª Ilza Nascimento Pintus, em São José dos Campos, onde tive meu primeiro contato com programação e com banco de dados.
 </p>
 <p align="justify">
 Comecei a FATEC no curso de Análise e Desenvolvimento de Sistemas (ADS), onde participei dos dois primeiros Projetos Integradores, e depois segui para Banco de Dados, onde realizei os demais. Cada semestre trouxe uma empresa parceira, um problema real e uma stack diferente. Foi nesses projetos que passei de páginas estáticas em HTML para aplicações com frontend, backend, ETL, testes automatizados e integração contínua.
