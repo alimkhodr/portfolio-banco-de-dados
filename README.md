@@ -123,7 +123,8 @@ Portfólio completo, projetos profissionais e CV em português, inglês e espanh
 
 <h2>Tecnologias Utilizadas no Projeto</h2>
 
-<p align="justify"><strong>Python:</strong> linguagem exigida pela FATEC para o desenvolvimento do projeto.</p>
+<p align="justify"><strong>Python e Flask:</strong> servidor da aplicação, com as rotas que renderizam as páginas.</p>
+<p align="justify"><strong>SQLite:</strong> primeiras tabelas do projeto, uma por área de vaga, criadas e populadas por scripts em Python.</p>
 <p align="justify"><strong>HTML5 e CSS3:</strong> estruturação e estilização das páginas do site.</p>
 <p align="justify"><strong>Bootstrap:</strong> framework utilizado para deixar o layout responsivo e padronizado.</p>
 <p align="justify"><strong>Canva:</strong> criação dos protótipos e das apresentações das sprints.</p>
@@ -199,7 +200,7 @@ Exercitei algumas hard skills durante esse projeto:
 
 <h2>Tecnologias Utilizadas no Projeto</h2>
 
-<p align="justify"><strong>Java:</strong> linguagem utilizada no desenvolvimento da aplicação desktop (requisito da FATEC).</p>
+<p align="justify"><strong>Java:</strong> linguagem utilizada no desenvolvimento da aplicação desktop (requisito da FATEC), com CRUD via JDBC, padrão DAO e <code>PreparedStatement</code>.</p>
 <p align="justify"><strong>MySQL:</strong> SGBD relacional utilizado para armazenar usuários, administradores e canais.</p>
 <p align="justify"><strong>NetBeans:</strong> IDE utilizada, incluindo o GUI Builder para a construção das telas.</p>
 <p align="justify"><strong>Canva:</strong> prototipação das telas e criação das apresentações.</p>
@@ -348,8 +349,8 @@ Exercitei algumas hard skills durante esse projeto:
 <p align="justify"><strong>Next.js e React:</strong> framework e biblioteca utilizados no desenvolvimento do frontend.</p>
 <p align="justify"><strong>TypeScript:</strong> tipagem estática no frontend.</p>
 <p align="justify"><strong>Tailwind CSS:</strong> estilização utilitária das telas.</p>
-<p align="justify"><strong>Java e Spring Boot:</strong> desenvolvimento da API REST no backend.</p>
-<p align="justify"><strong>MySQL:</strong> SGBD relacional utilizado para armazenar projetos, arquivos, campos e classificações.</p>
+<p align="justify"><strong>Java, Spring Boot e JPA:</strong> API REST no backend, com leitura do cabeçalho do CSV no servidor e regras de-para por campo no estágio Silver.</p>
+<p align="justify"><strong>MySQL:</strong> SGBD relacional com usuários e perfis (relação N:N), projetos, arquivos, campos e classificações.</p>
 <p align="justify"><strong>Figma:</strong> prototipação das telas em alta fidelidade.</p>
 
 <h2>Minhas Contribuições</h2>
@@ -476,8 +477,9 @@ https://github.com/user-attachments/assets/5b43a7f7-bac8-477c-847d-13c51ed2d0e1
 <p align="justify"><strong>Vue.js 3 e Vite:</strong> framework e ferramenta de build utilizados no frontend.</p>
 <p align="justify"><strong>Vuetify:</strong> biblioteca de componentes de UI utilizada nas telas.</p>
 <p align="justify"><strong>Google Maps API:</strong> renderização do mapa, marcadores, áreas, rotas e Street View.</p>
-<p align="justify"><strong>Java e Spring Boot:</strong> desenvolvimento da API REST no backend.</p>
-<p align="justify"><strong>Oracle:</strong> banco de dados que armazena as geolocalizações dos dispositivos.</p>
+<p align="justify"><strong>Java e Spring Boot:</strong> API REST, com os pontos de parada calculados em SQL usando funções de janela.</p>
+<p align="justify"><strong>Oracle Spatial:</strong> base de cerca de 500 mil registros de geolocalização, particionada por dia e subparticionada por dispositivo, com geofencing por trigger e procedure.</p>
+<p align="justify"><strong>Redis:</strong> cache das consultas da API.</p>
 <p align="justify"><strong>Docker:</strong> conteinerização dos serviços da aplicação.</p>
 
 <h2>Minhas Contribuições</h2>
@@ -620,9 +622,9 @@ https://github.com/user-attachments/assets/4079aa37-ad77-4b16-9e65-9312248a8ba6
 <p align="justify"><strong>Chart.js:</strong> construção dos gráficos dos dashboards.</p>
 <p align="justify"><strong>Vitest:</strong> testes unitários dos componentes do frontend.</p>
 <p align="justify"><strong>Go:</strong> desenvolvimento da API REST no backend.</p>
-<p align="justify"><strong>PostgreSQL:</strong> banco de dados e Data Warehouse com os indicadores.</p>
+<p align="justify"><strong>PostgreSQL:</strong> Data Warehouse em esquema estrela (fato de cards com dimensões de status, tag, projeto, plataforma, usuário e tempo), com migrations gerenciadas pelo Atlas.</p>
 <p align="justify"><strong>SQLite:</strong> banco em memória usado nos testes de integração do backend.</p>
-<p align="justify"><strong>Python:</strong> ETL que extrai os dados do Taiga e do Jira e carrega o Data Warehouse.</p>
+<p align="justify"><strong>Python e Prefect:</strong> ETL agendado a cada 10 minutos, que extrai os dados das APIs do Taiga e do Jira e carrega o Data Warehouse.</p>
 <p align="justify"><strong>GitHub Actions e SonarQube:</strong> integração contínua com lint, testes e análise de qualidade.</p>
 
 <h2>Minhas Contribuições</h2>
@@ -733,7 +735,7 @@ Exercitei algumas hard skills durante esse projeto:
 
 <h2>Solução</h2>
 
-<p align="justify">O VisionData transforma os chamados em uma base de conhecimento pesquisável. O sistema oferece busca textual de chamados semelhantes no Elasticsearch (com tolerância a erros de digitação e peso maior para o título), dashboards de métricas quantitativas e qualitativas, previsões por produto ou cliente com modelos de Machine Learning e exportação de insights gerados por IA. Tudo foi construído seguindo a LGPD, com anonimização, logs de auditoria, backups, controle de consentimento e perfis de acesso.</p>
+<p align="justify">O VisionData transforma os chamados em uma base de conhecimento pesquisável. O sistema oferece busca textual de chamados semelhantes no Elasticsearch (com tolerância a erros de digitação e peso maior para o título), dashboards de métricas quantitativas e qualitativas, previsões por produto ou cliente com modelos de Machine Learning e exportação de insights gerados por IA. Tudo foi construído seguindo a LGPD: termos de consentimento versionados (um índice único filtrado garante um só aceite ativo por termo), logs de acesso com IP e navegador, anonimização de nome, e-mail e senha na exclusão da conta, backup comprimido do DW com uma procedure que o reconcilia com o banco LGPD após a restauração e perfis de acesso.</p>
 
 <details>
 <summary><b>Demonstrações do sistema</b></summary>
@@ -772,8 +774,8 @@ https://github.com/user-attachments/assets/4eb3a23a-2c3c-439c-98e6-10afd77fc0e6
 <p align="justify"><strong>Chart.js:</strong> gráficos dos dashboards.</p>
 <p align="justify"><strong>Go:</strong> desenvolvimento da API REST no backend.</p>
 <p align="justify"><strong>Elasticsearch:</strong> indexação e busca textual dos chamados, com analisador em português.</p>
-<p align="justify"><strong>SQL Server:</strong> banco relacional e Data Warehouse do projeto.</p>
-<p align="justify"><strong>Python:</strong> ETL e modelos de Machine Learning para as previsões.</p>
+<p align="justify"><strong>SQL Server:</strong> banco de origem dos chamados, Data Warehouse em estrela (<code>Fact_Tickets</code>, um registro por chamado e tag) carregado com <code>MERGE</code>, e um banco separado para os registros da LGPD.</p>
+<p align="justify"><strong>Python e Prophet:</strong> ETL diário (às 00:10, primeiro o DW e depois o Elasticsearch) e previsões por produto e por cliente.</p>
 <p align="justify"><strong>Jira:</strong> gestão das sprints e das tarefas da equipe.</p>
 
 <h2>Minhas Contribuições</h2>
